@@ -1,8 +1,5 @@
 # Adish-repo1
-This is my first repository in github.
+This is my project of web-design.
 <br>
-Author-Adish Karki(ABK)
-<br>
-Target-Full-stack developer
-<br>
-Age-21
+Author-Adish Karki(AK)
+
